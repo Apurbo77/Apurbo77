@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 About Me
+<!-- ### 🚀 About Me
 
 I am a dedicated **Computer Science and Engineering student** at **BRAC University**, passionate about creative problem-solving and software development. I thrive on planning, executing, and bringing innovative digital ideas to life.
 
@@ -36,7 +36,7 @@ I am a dedicated **Computer Science and Engineering student** at **BRAC Universi
 - 💬 **Ask me about**: JavaScript, Python, or BRACU CSE courses.
 - ⚡ **Fun fact**: I believe honesty and determination are the keys to successful engineering.
 
----
+--- -->
 
 ### 🛠️ Tech Stack
 
