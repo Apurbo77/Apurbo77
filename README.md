@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 # <p align="center">✨ Hi, I'm Apurbo Kumar Bhaket ✨</p>
 
-<p align="center">
-  <img src="github_profile_banner_1777493553889.png" alt="Apurbo Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=CSE+Student+at+BRAC+University;Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
