@@ -81,10 +81,3 @@ I am a dedicated **Computer Science and Engineering student** at **BRAC Universi
   <img src="https://komarev.com/ghpvc/?username=Apurbo77&color=blueviolet" alt="Profile Views" />
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Apurbo77&label=Visitors&color=blueviolet" alt="Unique Visitors" />
-</p>
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FApurbo77&count_bg=%238A2BE2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Hits"/>
-</p>
