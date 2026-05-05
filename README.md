@@ -57,16 +57,8 @@ I am a dedicated **Computer Science and Engineering student** at **BRAC Universi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Apurbo77&theme=tokyonight&no-frame=false&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apurbo77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Apurbo's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbo77&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apurbo77&show_icons=true&theme=tokyonight" alt="Apurbo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbo77&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
