@@ -77,7 +77,7 @@ I am a dedicated **Computer Science and Engineering student** at **BRAC Universi
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Apurbo77&color=blueviolet" alt="Profile Views" />
-</p>
+</p> -->
 
