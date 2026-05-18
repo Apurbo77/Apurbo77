@@ -56,9 +56,9 @@ I am a dedicated **Computer Science and Engineering student** at **BRAC Universi
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Apurbo77&show_icons=true&theme=tokyonight&hide_border=true" alt="Apurbo's GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apurbo77&layout=compact&theme=tokyonight&hide_border=true&title_color=4285F4&text_color=ffffff" alt="Top Languages" />
